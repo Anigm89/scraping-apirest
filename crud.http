@@ -1,0 +1,14 @@
+POST http://localhost:3001/noticias
+Content-Type: application/json
+
+{
+    "titulo": "hola",
+    "imagen": "img",
+    "descripcion": "funciona" ,
+    "enlace": "link", 
+}
+
+###
+
+
+
